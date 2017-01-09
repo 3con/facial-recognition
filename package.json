@@ -1,0 +1,15 @@
+{
+  "name": "facial-recognition",
+  "version": "1.0.0",
+  "description": "AWS Test for Facial Recognition",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Large",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "q": "^1.4.1"
+  }
+}
